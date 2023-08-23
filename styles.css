@@ -14,7 +14,7 @@ li {
     border-bottom-style: dotted; 
     color: black;
     border: 5px solid rgb(255, 0, 119); 
-    margin-bottom: 0cqi;
+    margin-bottom: 20px;
     font-size: small;
     text-align: start;}
 
@@ -33,6 +33,27 @@ body {
     background-image: linear-gradient(rgb(255, 0, 128), pink);
     min-height: 100vh; font-family: Verdana, Geneva, Tahoma, sans-serif;}
 
+    .mat1 {
+        background-color: rgb(10, 9, 9);
+        color: white;
+        border: 2px solid black;
+        margin: 20px;
+        padding: 20px;
+      }
+      .mat2 {
+        background-color: rgb(16, 129, 16);
+        color: white;
+        border: 2px solid black;
+        margin: 20px;
+        padding: 20px;
+      }
+      .mat3 {
+        background-color: rgb(33, 25, 103);
+        color: white;
+        border: 2px solid black;
+        margin: 20px;
+        padding: 20px;
+      }
     
 /* li {
     border: 7px; color: black;
