@@ -1,0 +1,39 @@
+h1 {
+    color: rgb(20, 214, 146);
+    text-align: center;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:xx-large; }
+
+h2{
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+    margin-bottom: auto;}
+
+
+li {
+    border-bottom-style: dotted; 
+    color: black;
+    border: 5px solid rgb(255, 0, 119); 
+    margin-bottom: 0cqi;
+    font-size: small;
+    text-align: start;}
+
+ p{
+    font-family: cursive; 
+    padding: auto;
+    font-size: medium;}  
+
+div {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: auto;
+    background: local;} 
+
+body {
+    background-color: coral; 
+    background-image: linear-gradient(rgb(255, 0, 128), pink);
+    min-height: 100vh; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+    
+/* li {
+    border: 7px; color: black;
+} */
